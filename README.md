@@ -1,1 +1,6 @@
-# PCA_3_Parallel-reduction-using-Unrolling-Techniques
+### NAME: SURYA P <br>
+### REG NO: 212224230280 <br> 
+### Date: 09/11/2026
+
+## EX. No. 3 : PARALLEL REDUCTION USING UNROLLING TECHNIQUES
+
